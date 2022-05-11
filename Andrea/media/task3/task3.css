@@ -3,3 +3,30 @@ h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 60px;
 }
+
+.content {
+    font-size: 20px;
+    font-weight: 100;
+    margin: 15px;
+}
+
+.w3-sidebar {
+    background-color: wheat;
+    margin: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.hrstyle {
+    color: wheat;
+    border: 3px;
+    border-style: dotted;
+}
+
+ul {
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    background-color: bisque;
+}
