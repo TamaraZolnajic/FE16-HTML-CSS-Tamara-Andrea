@@ -4,17 +4,9 @@
     }
     
     .hiddenP {
-        display: none;
+        font-size: 60px;
     }
     
-    h1 {
-        display: none;
-    }
+    h1 {}
     
-    #second {
-        display: hidden;
-    }
-    
-    img {
-        display: block;
-    }
+    #second {}
